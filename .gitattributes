@@ -1,0 +1,2 @@
+# Sealed files must stay byte-for-byte identical: no line-ending conversion, ever.
+* -text

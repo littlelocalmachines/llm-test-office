@@ -1,0 +1,350 @@
+{
+  "kosum": {
+    "fatura": 200,
+    "model_sayisi": 3,
+    "kademe_sayisi": 2,
+    "kademe_I_alan": 5,
+    "katsayi": 8,
+    "baglam": 32768,
+    "grup_1_ile_gun_farki": 2
+  },
+  "renk_olcegi": {
+    "esik_1": 30,
+    "esik_2": 50,
+    "baraj": 70,
+    "esik_4": 90,
+    "kademe_sayisi": 5
+  },
+  "taban_modelsiz_200": {
+    "I_temiz_kati": 142,
+    "I_temiz_oran": 0.71,
+    "II_temiz_kati": 142,
+    "II_temiz_oran": 0.71
+  },
+  "lfm2_1_2b": {
+    "surum": 2,
+    "parametre_milyar": 1.2,
+    "parametre": 1170340608,
+    "I_kati": 77,
+    "I_oran": 0.385,
+    "I_esnek": 78,
+    "I_p50_sn": 1.155,
+    "I_fatura_dk": 46.1,
+    "anlatim_I_fatura_dk": 46,
+    "I_hata_yanlis_deger": 79,
+    "I_hata_uydurma_alan": 25,
+    "I_hata_ayristirma": 10,
+    "I_hata_eksik": 7,
+    "II_kati": 0,
+    "II_esnek": 0,
+    "II_hata_eksik": 149,
+    "II_hata_uydurma_alan": 27,
+    "eslesme_taban_I": {
+      "ikisi_de": 55,
+      "yalniz_model": 22,
+      "yalniz_taban": 87,
+      "hicbiri": 36,
+      "mcnemar_p": 0.0
+    },
+    "parti_1x1x8_kati": 0,
+    "parti_1x1x8_dongu": 48,
+    "parti_1x1x8_ayristirma": 152,
+    "yuva_1x8x1_kati": 82,
+    "yuva_1x8x1_hiz": 1.27,
+    "karisik_2x2x2_kati": 0,
+    "kopya_2x1x4_kati": 0,
+    "kopya_8x1x1_kati": 84,
+    "kopya_8x1x1_hiz": 1.98,
+    "kopya_8x1x1_fatura_dk": 91.3,
+    "anlatim_iki_kat": 2
+  },
+  "lfm2_5_1_2b": {
+    "surum": 2.5,
+    "parametre_milyar": 1.2,
+    "I_kati": 161,
+    "I_oran": 0.805,
+    "anlatim_yuzde_seksen": 80,
+    "I_esnek": 161,
+    "I_p50_sn": 1.017,
+    "I_fatura_dk": 59.2,
+    "anlatim_I_fatura_dk": 59,
+    "I_hata_yanlis_deger": 39,
+    "I_hata_diger": 0,
+    "II_kati": 12,
+    "II_oran": 0.06,
+    "II_hata_yanlis_deger": 168,
+    "II_hata_eksik": 20,
+    "eslesme_taban_I": {
+      "ikisi_de": 117,
+      "yalniz_model": 44,
+      "yalniz_taban": 25,
+      "hicbiri": 14,
+      "mcnemar_p": 0.0295
+    },
+    "fark_tabana_gore": 19,
+    "parti_1x1x8_kati": 0,
+    "yuva_1x8x1_kati": 161,
+    "yuva_1x8x1_hiz": 1.35,
+    "karisik_2x2x2_kati": 16,
+    "kopya_2x1x4_kati": 8,
+    "kopya_8x1x1_kati": 160,
+    "kopya_8x1x1_hiz": 1.79,
+    "kopya_8x1x1_fatura_dk": 106.2
+  },
+  "surum_farki_lfm": {
+    "I_kati_eski": 77,
+    "I_kati_yeni": 161,
+    "anlatim_iki_katindan_fazla": 2,
+    "uydurma_alan_eski": 25,
+    "uydurma_alan_yeni": 0,
+    "ayristirma_eski": 10,
+    "ayristirma_yeni": 0
+  },
+  "qwen3_1_7b": {
+    "surum": 3,
+    "parametre_milyar_ad": 1.7,
+    "parametre": 2031739904,
+    "I_kati": 99,
+    "I_oran": 0.495,
+    "I_esnek": 107,
+    "I_hata_cit_icinde": 8,
+    "I_hata_yanlis_deger": 76,
+    "I_hata_ayristirma": 15,
+    "I_p50_sn": 1.534,
+    "I_fatura_dk": 37.3,
+    "anlatim_I_fatura_dk": 37,
+    "II_kati": 5,
+    "eslesme_taban_I": {
+      "ikisi_de": 71,
+      "yalniz_model": 28,
+      "yalniz_taban": 71,
+      "hicbiri": 30,
+      "mcnemar_p": 0.0
+    },
+    "dusunce_sizintisi_rev4": {
+      "ayristirma_hatasi": 28,
+      "dusunce_etiketli": 15,
+      "anlatim_yarisi": 2
+    },
+    "parti_1x1x8_kati": 8,
+    "yuva_1x8x1_kati": 103,
+    "yuva_1x8x1_hiz": 2.26,
+    "karisik_2x2x2_kati": 72,
+    "kopya_2x1x4_kati": 71,
+    "kopya_8x1x1_kati": 104,
+    "kopya_8x1x1_hiz": 2.38,
+    "kopya_8x1x1_fatura_dk": 88.9
+  },
+  "grup1_karsilastirma": {
+    "minicpm5_1b_I_kati": 147,
+    "minicpm5_1b_yuva_1x8x1_hiz": 0.89,
+    "smollm2_II_kati": 4
+  },
+  "gurultu": {
+    "kosum": {
+      "fatura": 200,
+      "tohum": 42,
+      "uretici_surumu": 5,
+      "model_sayisi_toplam": 10,
+      "erken_durma_esigi": 30,
+      "karisma_orani": 0.06,
+      "bosluk_orani": 0.08
+    },
+    "eslesme_temiz_gurultu": {
+      "ayni_beklenen": 200,
+      "temiz_taban_simdi": 142,
+      "temiz_taban_kayit_0210": 142,
+      "eslesme": true
+    },
+    "taban_modelsiz": {
+      "I_kati": 55,
+      "I_oran": 0.275,
+      "II_kati": 6,
+      "II_oran": 0.03,
+      "I_temiz_kati_0210": 142
+    },
+    "lfm2_1_2b": {
+      "I": {
+        "n": 200,
+        "kati": 56,
+        "kati_oran": 0.28,
+        "kati_pay": 0.0622,
+        "esnek_oran": 0.28,
+        "esnek": 56,
+        "alan_f1": 0.675,
+        "hata": {
+          "yanlis_etiket": 98,
+          "ayristirma_hatasi": 19,
+          "uydurma_alan": 21,
+          "eksik_kategori": 5,
+          "dongu": 1
+        },
+        "sure_medyan_sn": 1.067,
+        "fatura_dk": 56.2,
+        "taban_eslesme": {
+          "yalniz_program": 36,
+          "yalniz_model": 37,
+          "ikisi": 19,
+          "mcnemar_p": 1.0
+        },
+        "temiz_eslesme": {
+          "temiz_kati": 77,
+          "temizde_dogru_gurultude_yanlis": 42,
+          "temizde_yanlis_gurultude_dogru": 21
+        }
+      },
+      "II": {
+        "n": 30,
+        "kati": 0,
+        "kati_oran": 0.0,
+        "kati_pay": 0.0,
+        "esnek_oran": 0.0,
+        "esnek": 0,
+        "alan_f1": 0.5008,
+        "hata": {
+          "eksik_kategori": 21,
+          "yanlis_etiket": 7,
+          "uydurma_alan": 2
+        },
+        "sure_medyan_sn": 1.976,
+        "fatura_dk": 30.4
+      }
+    },
+    "lfm2_5_1_2b": {
+      "I": {
+        "n": 200,
+        "kati": 103,
+        "kati_oran": 0.515,
+        "kati_pay": 0.0693,
+        "esnek_oran": 0.515,
+        "esnek": 103,
+        "alan_f1": 0.885,
+        "hata": {
+          "yanlis_etiket": 97
+        },
+        "sure_medyan_sn": 0.828,
+        "fatura_dk": 72.5,
+        "taban_eslesme": {
+          "yalniz_program": 13,
+          "yalniz_model": 61,
+          "ikisi": 42,
+          "mcnemar_p": 1.39e-08
+        },
+        "temiz_eslesme": {
+          "temiz_kati": 161,
+          "temizde_dogru_gurultude_yanlis": 65,
+          "temizde_yanlis_gurultude_dogru": 7
+        }
+      },
+      "II": {
+        "n": 30,
+        "kati": 0,
+        "kati_oran": 0.0,
+        "kati_pay": 0.0,
+        "esnek_oran": 0.0,
+        "esnek": 0,
+        "alan_f1": 0.7475,
+        "hata": {
+          "yanlis_etiket": 27,
+          "eksik_kategori": 3
+        },
+        "sure_medyan_sn": 3.833,
+        "fatura_dk": 15.7
+      }
+    },
+    "qwen3_1_7b": {
+      "I": {
+        "n": 200,
+        "kati": 68,
+        "kati_oran": 0.34,
+        "kati_pay": 0.0657,
+        "esnek_oran": 0.345,
+        "esnek": 69,
+        "alan_f1": 0.7839,
+        "hata": {
+          "yanlis_etiket": 117,
+          "ayristirma_hatasi": 12,
+          "cit_icinde": 1,
+          "uydurma_alan": 2
+        },
+        "sure_medyan_sn": 1.444,
+        "fatura_dk": 41.6,
+        "taban_eslesme": {
+          "yalniz_program": 35,
+          "yalniz_model": 48,
+          "ikisi": 20,
+          "mcnemar_p": 0.187
+        },
+        "taban_eslesme_esnek": {
+          "yalniz_program": 35,
+          "yalniz_model": 49,
+          "ikisi": 20,
+          "mcnemar_p": 0.156
+        },
+        "temiz_eslesme": {
+          "temiz_kati": 99,
+          "temizde_dogru_gurultude_yanlis": 57,
+          "temizde_yanlis_gurultude_dogru": 26
+        },
+        "dusunce_sizintisi": {
+          "ayristirma_hatasi": 12,
+          "dusunce_etiketli": 6
+        }
+      },
+      "II": {
+        "n": 30,
+        "kati": 0,
+        "kati_oran": 0.0,
+        "kati_pay": 0.0,
+        "esnek_oran": 0.0,
+        "esnek": 0,
+        "alan_f1": 0.5645,
+        "hata": {
+          "yanlis_etiket": 23,
+          "ayristirma_hatasi": 7
+        },
+        "sure_medyan_sn": 7.228,
+        "fatura_dk": 8.3
+      }
+    },
+    "grup1_gurultu_I": {
+      "minicpm5-1b": {
+        "kati": 91
+      },
+      "google/gemma-3-1b": {
+        "kati": 0
+      },
+      "llama-3.2-1b-instruct": {
+        "kati": 0
+      },
+      "smollm2-1.7b-instruct": {
+        "kati": 91
+      }
+    }
+  },
+  "cikis_tarihleri": {
+    "lfm2_1_2b": {
+      "yil": 2025,
+      "ay": 7,
+      "hf_safetensors_parametre": 1170340608
+    },
+    "lfm2_5_1_2b": {
+      "yil": 2026,
+      "ay": 1,
+      "hf_safetensors_parametre": 1170340608
+    },
+    "qwen3_1_7b": {
+      "yil": 2025,
+      "ay": 4,
+      "hf_safetensors_parametre": 2031739904
+    }
+  },
+  "gguf_olcumu": {
+    "lfm2_5_parametre": 1170340608,
+    "lfm2_parametre": 1170340608,
+    "qwen3_toplam": 2031739904,
+    "qwen3_cikis_matrisi_output_weight": 311164928,
+    "qwen3_giris_gomme_token_embd": 311164928,
+    "qwen3_cikis_matrisi_haric": 1720574976
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "uretim": "2026-10-29T23:46:14+00:00",
+  "kunye": {
+    "release": "1.1.1.1",
+    "repository": "littlelocalmachines/llm-test-office",
+    "sealed_at": "2026-10-29T23:46:14+00:00"
+  },
+  "dosyalar": [
+    {
+      "yol": "FACTS.json",
+      "bayt": 8394,
+      "sha256": "ceeba559bac24c004064962d1a03ccee4aaaa6b2cec1122b7c556d98f5539499"
+    },
+    {
+      "yol": "HARDWARE.json",
+      "bayt": 418,
+      "sha256": "0e8c3e076c2593dd2412f41a3f686e2c822ddaced8a6a20d52cfbd36f666bb64"
+    },
+    {
+      "yol": "MODELS.json",
+      "bayt": 6446,
+      "sha256": "2faafe12b46ab070acccb52c2baef6e2cf1302334e5885845a89130b3f7a7b2f"
+    },
+    {
+      "yol": "package.zip",
+      "bayt": 197161,
+      "sha256": "914665350cacbc002a04dd3af77e4b21d01cad681913dc7b68505c41d59316be"
+    },
+    {
+      "yol": "README.md",
+      "bayt": 4208,
+      "sha256": "4affaa7297d5217bb68e065cf3a8c5f9b183581b838beba115561a0db10405a0"
+    },
+    {
+      "yol": "RERUN.md",
+      "bayt": 2858,
+      "sha256": "8a131024465ce45e80c11e8a03309ed25dd03c6bc9636576073b74a364f27018"
+    },
+    {
+      "yol": "results.csv",
+      "bayt": 3080,
+      "sha256": "1926649c901928edd892f79811855dc53ce2d1b24c23238202ae5510325da697"
+    },
+    {
+      "yol": "RESULTS.md",
+      "bayt": 3122,
+      "sha256": "98a6409c87b0566163bf402887c98a0f8da6659cc65ed080bd3bf9f7958e5a97"
+    },
+    {
+      "yol": "seal-tr/OLGU_LISTESI.json",
+      "bayt": 8753,
+      "sha256": "929ea8274ee73b2fccfe17f0c6b765c616ab69a033107ad51d7731750f44433e"
+    },
+    {
+      "yol": "seal-tr/onceki_manifest.txt",
+      "bayt": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "yol": "seal-tr/TRANSKRIPT_TR.md",
+      "bayt": 12924,
+      "sha256": "f14c7b79d71ec97b974b23832daf63f6aa835556e331dfb340be9899937d81a4"
+    },
+    {
+      "yol": "STERILIZATION.md",
+      "bayt": 1038,
+      "sha256": "71c228d99161cc45e200dc9d342067238b367526eb72b5e4a68abf7cac1cabca"
+    },
+    {
+      "yol": "TRANSCRIPT_TR.md",
+      "bayt": 12924,
+      "sha256": "f14c7b79d71ec97b974b23832daf63f6aa835556e331dfb340be9899937d81a4"
+    }
+  ]
+}

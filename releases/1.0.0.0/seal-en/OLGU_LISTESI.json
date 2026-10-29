@@ -1,0 +1,80 @@
+{
+  "derlem": {
+    "baslangic_yili": 2024,
+    "baslangic_ay": "2024-08",
+    "bitis_ay": "2026-09",
+    "parametre_alt_milyar": 1,
+    "parametre_ust_milyar": 2.5,
+    "parametre_alt": 1000000000,
+    "parametre_ust": 2500000000
+  },
+  "meslek_eslesmesi": {
+    "somut_is": 46,
+    "ofis_is": 12
+  },
+  "test_office": {
+    "is_karti": 12,
+    "katalog_kalem": 34,
+    "kademe_I_alan": 5,
+    "zorluk_seviyesi": 3,
+    "motor_kusuru_duzeltilen": 4,
+    "kural_sayisi_veri": 3,
+    "modern_tedarikci_ailesi": 12,
+    "sabitlik_hucre": 52,
+    "sabitlik_ayni_hucre": 52,
+    "edi_duzen_sayisi": 4,
+    "uretici_duzen_sayisi": 4
+  },
+  "taban_modelsiz": {
+    "n": 200,
+    "I_temiz_kati": 142,
+    "II_temiz_kati": 142,
+    "I_temiz_oran": 0.71,
+    "II_temiz_oran": 0.71,
+    "I_gurultu_kati": 55,
+    "I_gurultu_oran": 0.275,
+    "II_gurultu_kati": 6,
+    "II_gurultu_oran": 0.03,
+    "EDI_kati": 200,
+    "EDI_oran": 1.0,
+    "anlatim_on_belgede": 10,
+    "anlatim_on_belgede_dogru": 7,
+    "anlatim_iki_yuz_faturada": 200,
+    "anlatim_iki_yuz_faturada_dogru_II_gurultu": 6,
+    "anlatim_edi_iki_yuz": 200
+  },
+  "kadro": {
+    "model_sayisi": 10,
+    "ilk_grup": 4,
+    "minicpm_surum": 5,
+    "gemma_surum": 3,
+    "llama_surum": 3.2,
+    "smollm_surum": 2,
+    "grup_sayisi": 3,
+    "grup_2": 3,
+    "grup_3": 3,
+    "en_buyuk_parametre_milyar": 2.52,
+    "ust_sinir_milyar": 3,
+    "ust_sinir": 3000000000,
+    "en_kucuk_parametre_milyar": 1.0,
+    "en_buyuk_soylenis_milyar": 2.5
+  },
+  "yuk_duzeni": {
+    "katsayi": 8,
+    "fatura_adedi": 200,
+    "olculen_sey": 3
+  },
+  "seri": {
+    "asama": 5
+  },
+  "test_cihazi": {
+    "bellek_gb": 128,
+    "model_kodu": "HN7306",
+    "kod_parca_1": 73,
+    "kod_parca_2": 0,
+    "kod_parca_3": 6
+  },
+  "renk_olcegi": {
+    "baraj_orani": 0.7
+  }
+}

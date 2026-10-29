@@ -1,0 +1,22 @@
+{
+  "uretim": "2026-10-13T21:52:45+00:00",
+  "kunye": {
+    "video": "LTO_1.0.0.0_TANITIM_GENEL",
+    "dil": "en",
+    "kaynak": "05_GANDALF\\mudur\\videolar\\LTO_1.0.0.0_TANITIM_GENEL\\TRANSKRIPT_EN.md",
+    "transkript_sha256": "71b706dc22f7a70d6e74a161a73ef1c00e88adf5365f110825b0962d8fc04a14",
+    "muhur_ani": "2026-10-13T21:52:44+00:00"
+  },
+  "dosyalar": [
+    {
+      "yol": "OLGU_LISTESI.json",
+      "bayt": 1879,
+      "sha256": "2cebbcbdc9ce91b8f84f64e781cb2f1f9908d6112a0de278e0fde03094ed7a5a"
+    },
+    {
+      "yol": "TRANSKRIPT_EN.md",
+      "bayt": 16073,
+      "sha256": "71b706dc22f7a70d6e74a161a73ef1c00e88adf5365f110825b0962d8fc04a14"
+    }
+  ]
+}

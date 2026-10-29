@@ -1,0 +1,93 @@
+model,measure,value
+baseline,II_clean,142
+baseline,II_noisy,6
+baseline,I_clean,142
+baseline,I_noisy,55
+MiniCPM 5 1B,II_clean_r2,0
+MiniCPM 5 1B,II_clean_r2_flex,0
+MiniCPM 5 1B,II_clean_r2_n,30
+MiniCPM 5 1B,II_clean_r2_p50,1.331
+MiniCPM 5 1B,II_clean_v1,0
+MiniCPM 5 1B,II_clean_v1_flex,0
+MiniCPM 5 1B,II_clean_v1_p50,1.225
+MiniCPM 5 1B,II_noisy,0
+MiniCPM 5 1B,II_noisy_flex,0
+MiniCPM 5 1B,II_noisy_n,30
+MiniCPM 5 1B,II_noisy_p50,0.923
+MiniCPM 5 1B,I_clean_r2,147
+MiniCPM 5 1B,I_clean_r2_flex,147
+MiniCPM 5 1B,I_clean_r2_n,200
+MiniCPM 5 1B,I_clean_r2_p50,0.367
+MiniCPM 5 1B,I_clean_v1,147
+MiniCPM 5 1B,I_clean_v1_flex,147
+MiniCPM 5 1B,I_clean_v1_p50,0.354
+MiniCPM 5 1B,I_noisy,91
+MiniCPM 5 1B,I_noisy_flex,91
+MiniCPM 5 1B,I_noisy_n,200
+MiniCPM 5 1B,I_noisy_p50,0.289
+Gemma 3 1B,II_clean_r2,0
+Gemma 3 1B,II_clean_r2_flex,0
+Gemma 3 1B,II_clean_r2_n,30
+Gemma 3 1B,II_clean_r2_p50,3.44
+Gemma 3 1B,II_clean_v1,0
+Gemma 3 1B,II_clean_v1_flex,1
+Gemma 3 1B,II_clean_v1_p50,3.025
+Gemma 3 1B,II_noisy,0
+Gemma 3 1B,II_noisy_flex,0
+Gemma 3 1B,II_noisy_n,30
+Gemma 3 1B,II_noisy_p50,2.68
+Gemma 3 1B,I_clean_r2,0
+Gemma 3 1B,I_clean_r2_flex,143
+Gemma 3 1B,I_clean_r2_n,200
+Gemma 3 1B,I_clean_r2_p50,0.882
+Gemma 3 1B,I_clean_v1,0
+Gemma 3 1B,I_clean_v1_flex,140
+Gemma 3 1B,I_clean_v1_p50,0.746
+Gemma 3 1B,I_noisy,0
+Gemma 3 1B,I_noisy_flex,103
+Gemma 3 1B,I_noisy_n,200
+Gemma 3 1B,I_noisy_p50,0.664
+Llama 3.2 1B Instruct,II_clean_r2,0
+Llama 3.2 1B Instruct,II_clean_r2_flex,0
+Llama 3.2 1B Instruct,II_clean_r2_n,30
+Llama 3.2 1B Instruct,II_clean_r2_p50,1.684
+Llama 3.2 1B Instruct,II_clean_v1,0
+Llama 3.2 1B Instruct,II_clean_v1_flex,0
+Llama 3.2 1B Instruct,II_clean_v1_p50,1.609
+Llama 3.2 1B Instruct,II_noisy,0
+Llama 3.2 1B Instruct,II_noisy_flex,0
+Llama 3.2 1B Instruct,II_noisy_n,30
+Llama 3.2 1B Instruct,II_noisy_p50,1.346
+Llama 3.2 1B Instruct,I_clean_r2,2
+Llama 3.2 1B Instruct,I_clean_r2_flex,7
+Llama 3.2 1B Instruct,I_clean_r2_n,200
+Llama 3.2 1B Instruct,I_clean_r2_p50,0.509
+Llama 3.2 1B Instruct,I_clean_v1,0
+Llama 3.2 1B Instruct,I_clean_v1_flex,3
+Llama 3.2 1B Instruct,I_clean_v1_p50,0.54
+Llama 3.2 1B Instruct,I_noisy,0
+Llama 3.2 1B Instruct,I_noisy_flex,0
+Llama 3.2 1B Instruct,I_noisy_n,30
+Llama 3.2 1B Instruct,I_noisy_p50,0.446
+SmolLM2 1.7B Instruct,II_clean_r2,0
+SmolLM2 1.7B Instruct,II_clean_r2_flex,0
+SmolLM2 1.7B Instruct,II_clean_r2_n,30
+SmolLM2 1.7B Instruct,II_clean_r2_p50,3.332
+SmolLM2 1.7B Instruct,II_clean_v1,4
+SmolLM2 1.7B Instruct,II_clean_v1_flex,4
+SmolLM2 1.7B Instruct,II_clean_v1_p50,3.559
+SmolLM2 1.7B Instruct,II_noisy,0
+SmolLM2 1.7B Instruct,II_noisy_flex,0
+SmolLM2 1.7B Instruct,II_noisy_n,30
+SmolLM2 1.7B Instruct,II_noisy_p50,2.66
+SmolLM2 1.7B Instruct,I_clean_r2,125
+SmolLM2 1.7B Instruct,I_clean_r2_flex,125
+SmolLM2 1.7B Instruct,I_clean_r2_n,200
+SmolLM2 1.7B Instruct,I_clean_r2_p50,0.894
+SmolLM2 1.7B Instruct,I_clean_v1,127
+SmolLM2 1.7B Instruct,I_clean_v1_flex,127
+SmolLM2 1.7B Instruct,I_clean_v1_p50,1.443
+SmolLM2 1.7B Instruct,I_noisy,91
+SmolLM2 1.7B Instruct,I_noisy_flex,91
+SmolLM2 1.7B Instruct,I_noisy_n,200
+SmolLM2 1.7B Instruct,I_noisy_p50,0.736

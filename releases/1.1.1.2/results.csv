@@ -1,0 +1,71 @@
+model,measure,value
+baseline,II_clean,142
+baseline,II_noisy,6
+baseline,I_clean,142
+baseline,I_noisy,55
+LFM2 1.2B,II_clean_r2,0
+LFM2 1.2B,II_clean_r2_flex,0
+LFM2 1.2B,II_clean_r2_n,30
+LFM2 1.2B,II_clean_r2_p50,3.216
+LFM2 1.2B,II_clean_v1,0
+LFM2 1.2B,II_clean_v1_flex,0
+LFM2 1.2B,II_clean_v1_p50,2.164
+LFM2 1.2B,II_noisy,0
+LFM2 1.2B,II_noisy_flex,0
+LFM2 1.2B,II_noisy_n,30
+LFM2 1.2B,II_noisy_p50,1.976
+LFM2 1.2B,I_clean_r2,79
+LFM2 1.2B,I_clean_r2_flex,79
+LFM2 1.2B,I_clean_r2_n,200
+LFM2 1.2B,I_clean_r2_p50,1.508
+LFM2 1.2B,I_clean_v1,77
+LFM2 1.2B,I_clean_v1_flex,78
+LFM2 1.2B,I_clean_v1_p50,1.155
+LFM2 1.2B,I_noisy,56
+LFM2 1.2B,I_noisy_flex,56
+LFM2 1.2B,I_noisy_n,200
+LFM2 1.2B,I_noisy_p50,1.067
+LFM2.5 1.2B Instruct,II_clean_r2,14
+LFM2.5 1.2B Instruct,II_clean_r2_flex,14
+LFM2.5 1.2B Instruct,II_clean_r2_n,200
+LFM2.5 1.2B Instruct,II_clean_r2_p50,6.276
+LFM2.5 1.2B Instruct,II_clean_v1,12
+LFM2.5 1.2B Instruct,II_clean_v1_flex,12
+LFM2.5 1.2B Instruct,II_clean_v1_p50,3.942
+LFM2.5 1.2B Instruct,II_noisy,0
+LFM2.5 1.2B Instruct,II_noisy_flex,0
+LFM2.5 1.2B Instruct,II_noisy_n,30
+LFM2.5 1.2B Instruct,II_noisy_p50,3.833
+LFM2.5 1.2B Instruct,I_clean_r2,160
+LFM2.5 1.2B Instruct,I_clean_r2_flex,160
+LFM2.5 1.2B Instruct,I_clean_r2_n,200
+LFM2.5 1.2B Instruct,I_clean_r2_p50,1.473
+LFM2.5 1.2B Instruct,I_clean_v1,161
+LFM2.5 1.2B Instruct,I_clean_v1_flex,161
+LFM2.5 1.2B Instruct,I_clean_v1_p50,1.017
+LFM2.5 1.2B Instruct,I_noisy,103
+LFM2.5 1.2B Instruct,I_noisy_flex,103
+LFM2.5 1.2B Instruct,I_noisy_n,200
+LFM2.5 1.2B Instruct,I_noisy_p50,0.828
+Qwen3 1.7B,II_clean_r2,0
+Qwen3 1.7B,II_clean_r2_flex,0
+Qwen3 1.7B,II_clean_r2_n,30
+Qwen3 1.7B,II_clean_r2_p50,14.163
+Qwen3 1.7B,II_clean_v1,5
+Qwen3 1.7B,II_clean_v1_flex,5
+Qwen3 1.7B,II_clean_v1_p50,6.641
+Qwen3 1.7B,II_noisy,0
+Qwen3 1.7B,II_noisy_flex,0
+Qwen3 1.7B,II_noisy_n,30
+Qwen3 1.7B,II_noisy_p50,7.228
+Qwen3 1.7B,I_clean_r2,90
+Qwen3 1.7B,I_clean_r2_flex,95
+Qwen3 1.7B,I_clean_r2_n,200
+Qwen3 1.7B,I_clean_r2_p50,2.903
+Qwen3 1.7B,I_clean_v1,99
+Qwen3 1.7B,I_clean_v1_flex,107
+Qwen3 1.7B,I_clean_v1_p50,1.534
+Qwen3 1.7B,I_noisy,68
+Qwen3 1.7B,I_noisy_flex,69
+Qwen3 1.7B,I_noisy_n,200
+Qwen3 1.7B,I_noisy_p50,1.444

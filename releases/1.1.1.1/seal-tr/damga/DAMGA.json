@@ -1,0 +1,16 @@
+{
+  "freetsa": {
+    "url": "https://freetsa.org/tsr",
+    "durum": 200,
+    "istek_ani": "2026-10-21T07:43:27+00:00",
+    "damga_zamani": "Oct 21 07:43:23 2026 GMT",
+    "dogrulandi": true
+  },
+  "digicert": {
+    "url": "http://timestamp.digicert.com",
+    "durum": 200,
+    "istek_ani": "2026-10-21T07:43:28+00:00",
+    "damga_zamani": "Oct 21 07:43:24 2026 GMT",
+    "dogrulandi": true
+  }
+}

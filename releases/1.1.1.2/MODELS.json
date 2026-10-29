@@ -1,0 +1,125 @@
+[
+  {
+    "model": "LFM2 1.2B",
+    "hf_repo": "LiquidAI/LFM2-1.2B",
+    "runs": {
+      "check_run_20260929": {
+        "publisher": "liquid",
+        "architecture": "lfm2",
+        "quantization": "Q4_K_M",
+        "gguf_size_bytes": 730893248,
+        "gguf_sha256": "55175400e3f509a9616227afeffd58d87e80b9f628a5d3d54ada884d85221fed",
+        "parameters": 1170340608,
+        "gguf_file": "LFM2-1.2B-Q4_K_M.gguf",
+        "server": "LM Studio",
+        "server_version": "0.4.25+1"
+      },
+      "noisy_20261014": {
+        "publisher": "liquid",
+        "architecture": "lfm2",
+        "quantization": "Q4_K_M",
+        "gguf_size_bytes": 730893248,
+        "gguf_sha256": "55175400e3f509a9616227afeffd58d87e80b9f628a5d3d54ada884d85221fed",
+        "parameters": 1170340608,
+        "gguf_file": "LFM2-1.2B-Q4_K_M.gguf",
+        "server": "LM Studio",
+        "server_version": "0.4.26+4"
+      },
+      "clean_r2_20261030": {
+        "publisher": "liquid",
+        "architecture": "lfm2",
+        "quantization": "Q4_K_M",
+        "gguf_size_bytes": 730893248,
+        "gguf_sha256": "55175400e3f509a9616227afeffd58d87e80b9f628a5d3d54ada884d85221fed",
+        "parameters": 1170340608,
+        "gguf_file": "LFM2-1.2B-Q4_K_M.gguf",
+        "server": "LM Studio",
+        "server_version": "0.4.27+2"
+      }
+    },
+    "same_gguf_in_all_runs": true,
+    "note": "The clean numbers in the video come from a load run that did not record the model file hash. The runs listed here with a hash did; all of them used the same file."
+  },
+  {
+    "model": "LFM2.5 1.2B Instruct",
+    "hf_repo": "LiquidAI/LFM2.5-1.2B-Instruct",
+    "runs": {
+      "check_run_20260929": {
+        "publisher": "liquid",
+        "architecture": "lfm2",
+        "quantization": "Q4_K_M",
+        "gguf_size_bytes": null,
+        "gguf_sha256": null,
+        "parameters": null,
+        "gguf_file": null,
+        "server": "LM Studio",
+        "server_version": "0.4.25+1"
+      },
+      "noisy_20261014": {
+        "publisher": "liquid",
+        "architecture": "lfm2",
+        "quantization": "Q4_K_M",
+        "gguf_size_bytes": null,
+        "gguf_sha256": null,
+        "parameters": null,
+        "gguf_file": null,
+        "server": "LM Studio",
+        "server_version": "0.4.26+4"
+      },
+      "clean_r2_20261030": {
+        "publisher": "liquid",
+        "architecture": "lfm2",
+        "quantization": "Q4_K_M",
+        "gguf_size_bytes": null,
+        "gguf_sha256": null,
+        "parameters": null,
+        "gguf_file": null,
+        "server": "LM Studio",
+        "server_version": "0.4.27+2"
+      }
+    },
+    "same_gguf_in_all_runs": null,
+    "note": "The clean numbers in the video come from a load run that did not record the model file hash. None of the runs listed here recorded a file hash for this model either; the file cannot be pinned."
+  },
+  {
+    "model": "Qwen3 1.7B",
+    "hf_repo": "Qwen/Qwen3-1.7B",
+    "runs": {
+      "check_run_20260929": {
+        "publisher": "qwen",
+        "architecture": "qwen3",
+        "quantization": "Q4_K_M",
+        "gguf_size_bytes": 1282439328,
+        "gguf_sha256": "e0801cbda7e2f3fd00bea4d73b53b422b14b13aa130e778f6414b6b641920b7e",
+        "parameters": 2031739904,
+        "gguf_file": "Qwen3-1.7B-Q4_K_M.gguf",
+        "server": "LM Studio",
+        "server_version": "0.4.25+1"
+      },
+      "noisy_20261014": {
+        "publisher": "qwen",
+        "architecture": "qwen3",
+        "quantization": "Q4_K_M",
+        "gguf_size_bytes": 1282439328,
+        "gguf_sha256": "e0801cbda7e2f3fd00bea4d73b53b422b14b13aa130e778f6414b6b641920b7e",
+        "parameters": 2031739904,
+        "gguf_file": "Qwen3-1.7B-Q4_K_M.gguf",
+        "server": "LM Studio",
+        "server_version": "0.4.26+4"
+      },
+      "clean_r2_20261030": {
+        "publisher": "qwen",
+        "architecture": "qwen3",
+        "quantization": "Q4_K_M",
+        "gguf_size_bytes": 1282439328,
+        "gguf_sha256": "e0801cbda7e2f3fd00bea4d73b53b422b14b13aa130e778f6414b6b641920b7e",
+        "parameters": 2031739904,
+        "gguf_file": "Qwen3-1.7B-Q4_K_M.gguf",
+        "server": "LM Studio",
+        "server_version": "0.4.27+2"
+      }
+    },
+    "same_gguf_in_all_runs": true,
+    "note": "The clean numbers in the video come from a load run that did not record the model file hash. The runs listed here with a hash did; all of them used the same file."
+  }
+]

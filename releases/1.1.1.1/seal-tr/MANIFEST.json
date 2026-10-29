@@ -1,0 +1,21 @@
+{
+  "uretim": "2026-10-21T07:43:25+00:00",
+  "kunye": {
+    "video": "LTO_1.1.1.1_FATURA_ORTAK_G1_GENEL",
+    "dil": "tr",
+    "transkript_sha256": "f14c7b79d71ec97b974b23832daf63f6aa835556e331dfb340be9899937d81a4",
+    "muhur_ani": "2026-10-21T07:43:25+00:00"
+  },
+  "dosyalar": [
+    {
+      "yol": "OLGU_LISTESI.json",
+      "bayt": 8753,
+      "sha256": "929ea8274ee73b2fccfe17f0c6b765c616ab69a033107ad51d7731750f44433e"
+    },
+    {
+      "yol": "TRANSKRIPT_TR.md",
+      "bayt": 12924,
+      "sha256": "f14c7b79d71ec97b974b23832daf63f6aa835556e331dfb340be9899937d81a4"
+    }
+  ]
+}

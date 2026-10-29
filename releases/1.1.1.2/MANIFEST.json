@@ -1,0 +1,55 @@
+{
+  "uretim": "2026-10-29T23:46:45+00:00",
+  "kunye": {
+    "release": "1.1.1.2",
+    "repository": "littlelocalmachines/llm-test-office",
+    "sealed_at": "2026-10-29T23:46:45+00:00"
+  },
+  "dosyalar": [
+    {
+      "yol": "FACTS.json",
+      "bayt": 8215,
+      "sha256": "cbcb0e995219b9ded87560ba0bfa56dc382e910858dfb40a5b62327d8020b7bb"
+    },
+    {
+      "yol": "HARDWARE.json",
+      "bayt": 418,
+      "sha256": "0e8c3e076c2593dd2412f41a3f686e2c822ddaced8a6a20d52cfbd36f666bb64"
+    },
+    {
+      "yol": "MODELS.json",
+      "bayt": 4394,
+      "sha256": "0f9e08a8c9c0019375df351f290c6a31b2702b80cd7cdb9a0003c5f36260b078"
+    },
+    {
+      "yol": "package.zip",
+      "bayt": 218069,
+      "sha256": "e30b40b58c7b6209bcd894760de0c71096cdce7a47968083497f6aac35018811"
+    },
+    {
+      "yol": "README.md",
+      "bayt": 3167,
+      "sha256": "36d4e3b55d635969f0fe729e6e75e7d769bc5d0c9f2e0507a1ea5124b0f5329d"
+    },
+    {
+      "yol": "RERUN.md",
+      "bayt": 2757,
+      "sha256": "f8cfb82d1e35eeede8b1ed757417ed043762d4b6f6332e16f882fb6f03013721"
+    },
+    {
+      "yol": "results.csv",
+      "bayt": 2153,
+      "sha256": "5a2c30b74ec12eecf8caddf42125ac57419022762abdd089298ece3904f9d750"
+    },
+    {
+      "yol": "RESULTS.md",
+      "bayt": 2720,
+      "sha256": "fb27914a38e6edb53b9bfe60ae9bdb4f7a67315d5897a4b5a37482b3120216be"
+    },
+    {
+      "yol": "STERILIZATION.md",
+      "bayt": 873,
+      "sha256": "320db67bd2e8f4268f8ecae7fef0e7a955e0798eef07958d9fbb2cf317964bf2"
+    }
+  ]
+}
