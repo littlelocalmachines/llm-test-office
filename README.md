@@ -50,13 +50,3 @@ Found a mistake? Open an issue. Confirmed errors go into [`ERRATA.md`](ERRATA.md
 ## Licenses
 
 Test engine: PolyForm Noncommercial 1.0.0 · data, results, text and visuals: CC BY-NC 4.0. Tested models keep their own licenses; this repository does not redistribute model weights. Details: [`LICENSE.md`](LICENSE.md).
-
----
-
-## Türkçe özet
-
-Küçük yerel yapay zekâ modelleri, sıradan tek bir bilgisayarda, çevrimdışı, ofis belgeleri üzerinde ölçülüyor. Test motorumuz ve ölçümlerimiz herkese açık: **alın, kontrol edin.** Her test sürümünde motor, bütün ham model cevapları, bunlardan hesaplanan sonuçlar ve mühür (SHA-256 manifest, iki bağımsız RFC 3161 zaman damgası, Ed25519 imza) var.
-
-`package.zip` parolası: **`llm-test-office`** (her sürümde aynı). Parola gizli değildir; yalnız tarayıcı botların ve eğitim verisi toplayıcıların test kümesini yutmasını önler.
-
-Ortak testteki faturalar **sentetiktir**: amaç bütün modelleri aynı istemle, doğru cevabı bilinen aynı faturalarla tanımaktır; modele yazılım desteği yoktur. Modele özel yazılım, zorlu sınamalar ve gerçek belge özel test sürecindedir. Doğrulama: [`VERIFY.md`](VERIFY.md).
