@@ -1,9 +1,10 @@
 {
-  "uretim": "2026-10-29T23:46:45+00:00",
+  "uretim": "2026-11-03T22:22:01+00:00",
   "kunye": {
     "release": "1.1.1.2",
     "repository": "littlelocalmachines/llm-test-office",
-    "sealed_at": "2026-10-29T23:46:45+00:00"
+    "sealed_at": "2026-11-03T22:22:01+00:00",
+    "supersedes": "seal of 2026-10-29; data unchanged; adds video link and public transcripts"
   },
   "dosyalar": [
     {
@@ -28,8 +29,8 @@
     },
     {
       "yol": "README.md",
-      "bayt": 3167,
-      "sha256": "36d4e3b55d635969f0fe729e6e75e7d769bc5d0c9f2e0507a1ea5124b0f5329d"
+      "bayt": 3270,
+      "sha256": "89f23d21171bb423ae147a62043afa7030f79a36717c9cc6d6ebd9cf92c03775"
     },
     {
       "yol": "RERUN.md",
@@ -47,9 +48,49 @@
       "sha256": "fb27914a38e6edb53b9bfe60ae9bdb4f7a67315d5897a4b5a37482b3120216be"
     },
     {
+      "yol": "seal-en/OLGU_LISTESI.json",
+      "bayt": 10929,
+      "sha256": "f11739c66edb82923c9635f1f4a6f51fa4563629448ff31bd280f2af8f4d2e09"
+    },
+    {
+      "yol": "seal-en/onceki_manifest.txt",
+      "bayt": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "yol": "seal-en/TRANSKRIPT_EN.md",
+      "bayt": 15855,
+      "sha256": "a42e7400e1c1e71ae8d2e5f42b6a2d8309f0c87d4a092a81053604dbfb8ac4f0"
+    },
+    {
+      "yol": "seal-tr/OLGU_LISTESI.json",
+      "bayt": 10929,
+      "sha256": "f11739c66edb82923c9635f1f4a6f51fa4563629448ff31bd280f2af8f4d2e09"
+    },
+    {
+      "yol": "seal-tr/onceki_manifest.txt",
+      "bayt": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "yol": "seal-tr/TRANSKRIPT_TR.md",
+      "bayt": 15489,
+      "sha256": "dd7f3540450162b64757470fcfbb96537b08f02e63c41ee0648f08cfde451efe"
+    },
+    {
       "yol": "STERILIZATION.md",
-      "bayt": 873,
-      "sha256": "320db67bd2e8f4268f8ecae7fef0e7a955e0798eef07958d9fbb2cf317964bf2"
+      "bayt": 1202,
+      "sha256": "7d114f4f7ba7e00f073531ddd3a56da578c542f841810be8771857d4004985c0"
+    },
+    {
+      "yol": "TRANSCRIPT_EN.md",
+      "bayt": 15855,
+      "sha256": "a42e7400e1c1e71ae8d2e5f42b6a2d8309f0c87d4a092a81053604dbfb8ac4f0"
+    },
+    {
+      "yol": "TRANSCRIPT_TR.md",
+      "bayt": 15489,
+      "sha256": "dd7f3540450162b64757470fcfbb96537b08f02e63c41ee0648f08cfde451efe"
     }
   ]
 }

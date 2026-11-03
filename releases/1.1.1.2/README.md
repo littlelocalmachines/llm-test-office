@@ -1,6 +1,6 @@
 # Release 1.1.1.2 — common invoice test, group 2
 
-Video: not out yet; the link is added here when it is.
+Video: [youtu.be/f0iUbdaDWOo](https://youtu.be/f0iUbdaDWOo)
 
 Three small local models — **LFM2 1.2B, LFM2.5 1.2B Instruct, Qwen3 1.7B** — on the same 200 synthetic invoices as group 1, clean and with simulated scanner noise, against a rule-based program with no model. Same engine, same prompt, same rules as [1.1.1.1](../1.1.1.1/).
 
@@ -42,4 +42,4 @@ The totals moved little for LFM2, but 42 of its 200 invoices changed verdict in 
 | `STERILIZATION.md` | Scan for personal or internal information |
 | `MANIFEST.sha256`, `damga/`, `MANIFEST.sha256.sig` | Seal of this whole folder |
 
-The public transcript of this video is added with the video.
+`TRANSCRIPT_EN.md` and `TRANSCRIPT_TR.md` are the public transcripts of this video. Their own seals, made before voice-over, are in `seal-en/` and `seal-tr/`.
