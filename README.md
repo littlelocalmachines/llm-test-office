@@ -12,7 +12,8 @@ This repository holds everything behind the numbers in our videos: the test engi
 |---|---|---|
 | [`1.0.0.0`](releases/1.0.0.0/) | [Introduction](https://www.youtube.com/watch?v=N_w67eAU0T4) | Why small local models, how the engine works. Sealed EN + TR transcripts, fact list. No model results. |
 | [`1.1.1.1`](releases/1.1.1.1/) | [Common test, group 1](https://www.youtube.com/watch?v=BdjfpzVzEiw) | MiniCPM 5 1B, Gemma 3 1B, Llama 3.2 1B, SmolLM2 1.7B. Results, raw answers, engine, sealed TR transcript. |
-| [`1.1.1.2`](releases/1.1.1.2/) | Common test, group 2 | LFM2 1.2B, LFM2.5 1.2B, Qwen3 1.7B. Results, raw answers, engine. |
+| [`1.1.1.2`](releases/1.1.1.2/) | [Common test, group 2](https://www.youtube.com/watch?v=f0iUbdaDWOo) | LFM2 1.2B, LFM2.5 1.2B, Qwen3 1.7B. Results, raw answers, engine. |
+| [`1.1.1.0-1`](releases/1.1.1.0-1/) | [Interim: LFM3 1.7B](https://www.youtube.com/watch?v=98IgNmR5VDo) | Liquid AI LFM3 1.7B on the common test. Results, raw answers, engine, EN + TR transcripts. |
 
 The prompt and scoring rules are also in plain text: [`docs/PROMPT.md`](docs/PROMPT.md), [`docs/SCORING.md`](docs/SCORING.md).
 

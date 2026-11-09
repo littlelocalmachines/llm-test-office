@@ -1,0 +1,13 @@
+{
+  "device": "ASUS ProArt PX13 (HN7306)",
+  "os": "Windows-11-10.0.26300-SP0",
+  "cpu": "AMD Ryzen AI Max+ 395",
+  "cpu_id": "AMD64 Family 26 Model 112 Stepping 0, AuthenticAMD",
+  "physical_cores": 16,
+  "logical_cores": 32,
+  "memory_gb": 127.1,
+  "memory_note": "128 GB unified memory (CPU and GPU share it)",
+  "memory_speed_mhz": 8533,
+  "gpu": "AMD Radeon(TM) 8060S Graphics",
+  "gpu_driver": "32.0.31036.15"
+}

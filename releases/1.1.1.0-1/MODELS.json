@@ -1,0 +1,21 @@
+[
+  {
+    "model": "LFM3 1.7B",
+    "hf_repo": "LiquidAI/LFM3-1.7B",
+    "runs": {
+      "noisy_20261105": {
+        "publisher": "LiquidAI",
+        "architecture": "lfm3",
+        "quantization": "Q4_K_M",
+        "gguf_size_bytes": 1099627808,
+        "gguf_sha256": "3793e1e6e2266919d6e015287221b41100175a98eddaba92e111aed3b05c93c4",
+        "parameters": 1728801600,
+        "gguf_file": "LFM3-1.7B-Q4_K_M.gguf",
+        "server": "LM Studio",
+        "server_version": "0.4.28+2"
+      }
+    },
+    "same_gguf_in_all_runs": true,
+    "note": "The clean numbers in the video come from a load run that did not record the model file hash. The runs listed here with a hash did; all of them used the same file."
+  }
+]

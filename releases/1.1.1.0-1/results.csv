@@ -1,0 +1,19 @@
+model,measure,value
+baseline,II_clean,142
+baseline,II_noisy,6
+baseline,I_clean,142
+baseline,I_noisy,55
+LFM3 1.7B,II_clean_v1,85
+LFM3 1.7B,II_clean_v1_flex,85
+LFM3 1.7B,II_clean_v1_p50,4.083
+LFM3 1.7B,II_noisy,16
+LFM3 1.7B,II_noisy_flex,16
+LFM3 1.7B,II_noisy_n,200
+LFM3 1.7B,II_noisy_p50,4.672
+LFM3 1.7B,I_clean_v1,156
+LFM3 1.7B,I_clean_v1_flex,156
+LFM3 1.7B,I_clean_v1_p50,0.953
+LFM3 1.7B,I_noisy,102
+LFM3 1.7B,I_noisy_flex,102
+LFM3 1.7B,I_noisy_n,200
+LFM3 1.7B,I_noisy_p50,1.047

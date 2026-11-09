@@ -1,0 +1,357 @@
+{
+  "taban_modelsiz_I": {
+    "kati": 142,
+    "n": 200
+  },
+  "taban_modelsiz_gurultu": {
+    "to1_fatura_gurultu": 55,
+    "to2_fatura_gurultu": 6
+  },
+  "modeller": {
+    "google/gemma-3-1b": {
+      "I_kati": 0,
+      "II_kati": 0,
+      "n": 200,
+      "I_esnek": 140,
+      "II_esnek": 1,
+      "I_hata": {
+        "cit_icinde": 140,
+        "yanlis_etiket": 60
+      },
+      "gurultu_I_kati": 0,
+      "gurultu_II_kati": 0
+    },
+    "lfm3-1.7b@q4_k_m": {
+      "I_kati": 156,
+      "II_kati": 85,
+      "n": 200,
+      "I_esnek": 156,
+      "II_esnek": 85,
+      "I_hata": {
+        "ayristirma_hatasi": 1,
+        "uydurma_alan": 36,
+        "yanlis_etiket": 7
+      },
+      "gurultu_I_kati": 102,
+      "gurultu_II_kati": 16
+    },
+    "liquid/lfm2-1.2b": {
+      "I_kati": 77,
+      "II_kati": 0,
+      "n": 200,
+      "I_esnek": 78,
+      "II_esnek": 0,
+      "I_hata": {
+        "yanlis_etiket": 79,
+        "ayristirma_hatasi": 10,
+        "uydurma_alan": 25,
+        "eksik_kategori": 7,
+        "cit_icinde": 1,
+        "kesildi": 1
+      },
+      "gurultu_I_kati": 56,
+      "gurultu_II_kati": 0
+    },
+    "liquid/lfm2.5-1.2b": {
+      "I_kati": 161,
+      "II_kati": 12,
+      "n": 200,
+      "I_esnek": 161,
+      "II_esnek": 12,
+      "I_hata": {
+        "yanlis_etiket": 39
+      },
+      "gurultu_I_kati": 103,
+      "gurultu_II_kati": 0
+    },
+    "llama-3.2-1b-instruct": {
+      "I_kati": 0,
+      "II_kati": 0,
+      "n": 200,
+      "I_esnek": 3,
+      "II_esnek": 0,
+      "I_hata": {
+        "yanlis_sema": 138,
+        "ayristirma_hatasi": 47,
+        "uydurma_alan": 8,
+        "yanlis_etiket": 4,
+        "cit_icinde": 3
+      },
+      "gurultu_I_kati": 0,
+      "gurultu_II_kati": 0
+    },
+    "minicpm5-1b": {
+      "I_kati": 147,
+      "II_kati": 0,
+      "n": 200,
+      "I_esnek": 147,
+      "II_esnek": 0,
+      "I_hata": {
+        "yanlis_etiket": 53
+      },
+      "gurultu_I_kati": 91,
+      "gurultu_II_kati": 0
+    },
+    "qwen/qwen3-1.7b": {
+      "I_kati": 99,
+      "II_kati": 5,
+      "n": 200,
+      "I_esnek": 107,
+      "II_esnek": 5,
+      "I_hata": {
+        "yanlis_etiket": 76,
+        "ayristirma_hatasi": 15,
+        "cit_icinde": 8,
+        "uydurma_alan": 2
+      },
+      "gurultu_I_kati": 68,
+      "gurultu_II_kati": 0
+    },
+    "smollm2-1.7b-instruct": {
+      "I_kati": 127,
+      "II_kati": 4,
+      "n": 200,
+      "I_esnek": 127,
+      "II_esnek": 4,
+      "I_hata": {
+        "yanlis_etiket": 65,
+        "yanlis_sema": 6,
+        "ayristirma_hatasi": 2
+      },
+      "gurultu_I_kati": 91,
+      "gurultu_II_kati": 0
+    }
+  },
+  "siralama_I": {
+    "liquid/lfm2.5-1.2b": {
+      "sira": 1,
+      "I_kati": 161
+    },
+    "lfm3-1.7b@q4_k_m": {
+      "sira": 2,
+      "I_kati": 156
+    },
+    "minicpm5-1b": {
+      "sira": 3,
+      "I_kati": 147
+    },
+    "smollm2-1.7b-instruct": {
+      "sira": 4,
+      "I_kati": 127
+    },
+    "qwen/qwen3-1.7b": {
+      "sira": 5,
+      "I_kati": 99
+    },
+    "liquid/lfm2-1.2b": {
+      "sira": 6,
+      "I_kati": 77
+    },
+    "google/gemma-3-1b": {
+      "sira": 7,
+      "I_kati": 0
+    },
+    "llama-3.2-1b-instruct": {
+      "sira": 8,
+      "I_kati": 0
+    }
+  },
+  "yeni_model": {
+    "I_kati": 156,
+    "taban_karsi": {
+      "ikisi_de": 107,
+      "yalniz_kiyas": 35,
+      "yalniz_yeni": 49,
+      "hicbiri": 9,
+      "mcnemar_p": 0.1557
+    },
+    "karsi_lfm2-1.2b": {
+      "kiyas_I_kati": 77,
+      "ikisi_de": 63,
+      "yalniz_kiyas": 14,
+      "yalniz_yeni": 93,
+      "hicbiri": 30,
+      "mcnemar_p": 0.0
+    },
+    "karsi_lfm2.5-1.2b": {
+      "kiyas_I_kati": 161,
+      "ikisi_de": 123,
+      "yalniz_kiyas": 38,
+      "yalniz_yeni": 33,
+      "hicbiri": 6,
+      "mcnemar_p": 0.6353
+    },
+    "II_kati": 85,
+    "II_hata": {
+      "yanlis_etiket": 61,
+      "ayristirma_hatasi": 18,
+      "kesildi": 10,
+      "uydurma_alan": 24,
+      "dongu": 2
+    },
+    "kesif_II": {
+      "karsi_lfm2-1.2b": {
+        "kiyas_II_kati": 0,
+        "ikisi_de": 0,
+        "yalniz_kiyas": 0,
+        "yalniz_yeni": 85,
+        "hicbiri": 115,
+        "mcnemar_p": 0.0
+      },
+      "karsi_lfm2.5-1.2b": {
+        "kiyas_II_kati": 12,
+        "ikisi_de": 7,
+        "yalniz_kiyas": 5,
+        "yalniz_yeni": 78,
+        "hicbiri": 110,
+        "mcnemar_p": 0.0
+      }
+    },
+    "I_hata": {
+      "ayristirma_hatasi": 1,
+      "uydurma_alan": 36,
+      "yanlis_etiket": 7
+    },
+    "rank_among_published_plus_new": 2,
+    "models_ranked": 8
+  },
+  "yayimlanan": {
+    "gruplar": [
+      "G1",
+      "G2"
+    ],
+    "model_sayisi": 7,
+    "modeller": {
+      "google/gemma-3-1b": {
+        "I_kati": 0,
+        "II_kati": 0
+      },
+      "liquid/lfm2-1.2b": {
+        "I_kati": 77,
+        "II_kati": 0
+      },
+      "liquid/lfm2.5-1.2b": {
+        "I_kati": 161,
+        "II_kati": 12
+      },
+      "llama-3.2-1b-instruct": {
+        "I_kati": 0,
+        "II_kati": 0
+      },
+      "minicpm5-1b": {
+        "I_kati": 147,
+        "II_kati": 0
+      },
+      "qwen/qwen3-1.7b": {
+        "I_kati": 99,
+        "II_kati": 5
+      },
+      "smollm2-1.7b-instruct": {
+        "I_kati": 127,
+        "II_kati": 4
+      }
+    },
+    "sonraki_grup_modelleri": [
+      "minicpm5-2b",
+      "qwen3.5-2b",
+      "qwen3.8-2b-distill"
+    ],
+    "lfm3_sira_I": 2,
+    "onceki_en_yuksek_I": 161,
+    "lfm3_sira_II": 1,
+    "onceki_en_yuksek_II": 12,
+    "siralama_sayisi": 8
+  },
+  "tutarlilik_is1": {
+    "liquid/lfm2-1.2b": {
+      "to1_fatura": [
+        {
+          "ajan": 1,
+          "kati": 77
+        },
+        {
+          "ajan": 8,
+          "kati": 82
+        },
+        {
+          "ajan": 8,
+          "kati": 84
+        }
+      ],
+      "to2_fatura": [
+        {
+          "ajan": 1,
+          "kati": 0
+        },
+        {
+          "ajan": 8,
+          "kati": 0
+        },
+        {
+          "ajan": 8,
+          "kati": 0
+        }
+      ]
+    },
+    "liquid/lfm2.5-1.2b": {
+      "to1_fatura": [
+        {
+          "ajan": 1,
+          "kati": 161
+        },
+        {
+          "ajan": 8,
+          "kati": 161
+        },
+        {
+          "ajan": 8,
+          "kati": 160
+        }
+      ],
+      "to2_fatura": [
+        {
+          "ajan": 1,
+          "kati": 12
+        },
+        {
+          "ajan": 8,
+          "kati": 14
+        },
+        {
+          "ajan": 8,
+          "kati": 14
+        }
+      ]
+    },
+    "lfm3-1.7b@q4_k_m": {
+      "to1_fatura": [
+        {
+          "ajan": 1,
+          "kati": 156
+        },
+        {
+          "ajan": 8,
+          "kati": 156
+        },
+        {
+          "ajan": 8,
+          "kati": 157
+        }
+      ],
+      "to2_fatura": [
+        {
+          "ajan": 1,
+          "kati": 85
+        },
+        {
+          "ajan": 8,
+          "kati": 83
+        },
+        {
+          "ajan": 8,
+          "kati": 81
+        }
+      ]
+    }
+  }
+}
